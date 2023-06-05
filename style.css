@@ -1,0 +1,34 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading button{
+    float: right;
+    border: 1px solid whitesmoke;
+}
+.heading h3{
+    display: inline;
+}
+#c{
+    width: 100%;
+}
+.im{
+    display: inline-block;
+    width: 45%;
+}
+.modal-dialog{
+    width: 90%;
+}
+video{
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
+h4{
+    margin: 0px;
+    line-height: 2;
+    background-color: rgb(244, 244, 244);
+}
+#start,#status{
+    font-size: 24px;
+}
